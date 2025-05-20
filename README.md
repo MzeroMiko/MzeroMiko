@@ -8,6 +8,7 @@
 
 <p align="center">
 <!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
+
 <!-- <a href="https://linkedin.com/in/vivek9patel"><img src="https://img.shields.io/badge/-vivek9patel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> -->
 <a href=""><img src="https://img.shields.io/badge/-mzero17-04BE02?style=flat&logo=Wechat&logoColor=white"/></a>
 <a href="mailto:liuyue171@mails.ucas.ac.cn"><img src="https://img.shields.io/badge/-liuyue171@mails.ucas.ac.cn-0527AF?style=flat&logo=Gmail&logoColor=white"/></a>
@@ -21,7 +22,7 @@
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mzeromiko&" alt="mzeromiko" /></p> -->
 
 
-- 🌱 I’m currently exploring about **Foundation Models & Generation**
+- 🌱 I’m currently exploring about **Foundation Models & Generation & Quantization**
 
 <!-- - 👨‍💻 All of my projects are available [here](https://www.vivek9patel.com/projects) -->
 
