@@ -9,7 +9,7 @@
 <p align="center">
 <!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
 <!-- <a href="https://linkedin.com/in/vivek9patel"><img src="https://img.shields.io/badge/-vivek9patel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> -->
-<a href=""><img src="https://img.shields.io/badge/-mzero17-04BE02?style=flat&logo=Wechat&logoColor=white"/>wechat</a>
+<a href=""><img src="https://img.shields.io/badge/-mzero17-04BE02?style=flat&logo=Wechat&logoColor=white"/></a>
 <a href="mailto:liuyue171@mails.ucas.ac.cn"><img src="https://img.shields.io/badge/-liuyue171@mails.ucas.ac.cn-0527AF?style=flat&logo=Gmail&logoColor=white"/></a>
 <!-- <a href="mailto:emczero17@gmail.com"><img src="https://img.shields.io/badge/-emczero17@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> -->
 <a href="https://scholar.google.cz/citations?hl=zh-CN&user=94Bfnw8AAAAJ"><img src="https://img.shields.io/badge/-yueliu-D14836?style=flat&logo=Google&logoColor=white"/></a>
