@@ -22,7 +22,7 @@
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mzeromiko&" alt="mzeromiko" /></p> -->
 
 
-- 🌱 I’m currently exploring about **Foundation Models & Generation & Quantization & Diffusion Language Modeling**
+- 🌱 I’m currently exploring about **Linear Attention & Diffusion Language Modeling**
 
 <!-- - 👨‍💻 All of my projects are available [here](https://www.vivek9patel.com/projects) -->
 
